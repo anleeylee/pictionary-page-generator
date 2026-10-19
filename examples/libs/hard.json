@@ -1,0 +1,16 @@
+{
+  "theme": "hard",
+  "title": "Hard",
+  "entries": [
+    {"prompt": "Astronaut", "category": "People", "difficulty": "medium"},
+    {"prompt": "Black Hole", "category": "Celestial", "difficulty": "hard"},
+    {"prompt": "Gravity", "category": "Concepts", "difficulty": "hard"},
+    {"prompt": "Rocket", "category": "Vehicles", "difficulty": "easy"},
+    {"prompt": "Telescope", "category": "Objects", "difficulty": "medium"},
+    {"prompt": "Comet", "category": "Celestial", "difficulty": "medium"},
+    {"prompt": "Saturn", "category": "Celestial", "difficulty": "medium"},
+    {"prompt": "Star", "category": "Celestial", "difficulty": "easy"},
+    {"prompt": "Moon", "category": "Celestial", "difficulty": "easy"},
+    {"prompt": "Alien", "category": "Creatures", "difficulty": "medium"}
+  ]
+}
